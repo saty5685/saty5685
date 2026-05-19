@@ -11,10 +11,10 @@
 <br/>
 
 <!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyamsingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saty5685)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://satyamsingh.onrender.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saty5685@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamsingh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saty5685)
 
 <br/>
 
@@ -32,8 +32,8 @@
 public class SatyamSingh implements BackendEngineer {
 
     private final String name       = "Satyam Singh";
-    private final String role       = "Backend Engineer @ Priority IDC (Fintech)";
-    private final int    experience = 5; // years
+    private final String role       = "Software Engineer @ Priority IDC (Fintech)";
+    private final int    experience = 5.4; // years
     private final String location   = "India 🇮🇳";
 
     @Override
@@ -197,8 +197,8 @@ public class SatyamSingh implements BackendEngineer {
 - 🔁 Fault tolerance via **Eureka service discovery** + Circuit Breaker
 - 📬 Multi-channel notifications (Email/SMS) for transaction updates
 
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamsingh/DeezyWallet)
-[![Architecture](https://img.shields.io/badge/HLD_Diagram-00D4FF?style=for-the-badge&logo=diagrams.net&logoColor=black)](https://satyamsingh.onrender.com/)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saty5685/DeezyWallet)
+[![Architecture](https://img.shields.io/badge/HLD_Diagram-00D4FF?style=for-the-badge&logo=diagrams.net&logoColor=black)](https://satyamsingh.onrender.com/hld)
 
 ---
 
@@ -225,7 +225,7 @@ public class SatyamSingh implements BackendEngineer {
 
 If you're working on **high-scale fintech**, **distributed systems**, or want to discuss **system design**, I'd love to connect!
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyamsingh)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saty5685)
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://satyamsingh.onrender.com/)
 [![Email](https://img.shields.io/badge/Drop_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saty5685@gmail.com)
 
