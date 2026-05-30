@@ -25,57 +25,6 @@
 
 ---
 
-## 👋 About Me
-
-```java
-@Service
-public class SatyamSingh implements BackendEngineer {
-
-    private final String name       = "Satyam Singh";
-    private final String role       = "Software Engineer @ Priority IDC (Fintech)";
-    private final int    experience = 5.4; // years
-    private final String location   = "India 🇮🇳";
-
-    @Override
-    public List<String> currentlyBuilding() {
-        return List.of(
-            "Target Balance Account (TBA) system — 5K TPS at peak",
-            "Event-driven pipelines processing 1M+ events/day",
-            "Fault-tolerant distributed financial systems"
-        );
-    }
-
-    @Override
-    public List<String> passions() {
-        return List.of(
-            "Distributed Systems & Microservices",
-            "High-Throughput Event-Driven Architectures",
-            "Financial Systems with Strong Consistency"
-        );
-    }
-}
-```
-
----
-
-## ⚡ Impact at a Glance
-
-<div align="center">
-
-| Metric | Achievement |
-|--------|-------------|
-| 🚀 **Transactions / sec** | Designed systems handling **2K–5K TPS** at peak |
-| 📊 **Events / day** | Kafka + Debezium pipelines processing **1M+ events/day** |
-| ⚡ **API Latency** | Reduced by **30–40%** via Redis & query optimization |
-| 💰 **Infrastructure Cost** | Cut by **~20%** with GPU utilization monitoring |
-| 🏦 **Daily Transactions** | Ledger service handling **1M+ transactions/day** (ACID) |
-| 👥 **DAU Served** | Recommendation engine for **100K+ daily active users** |
-| ✅ **Transaction Failure Rate** | Maintained **< 0.01%** failure rate |
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -111,6 +60,25 @@ public class SatyamSingh implements BackendEngineer {
 ![CQRS](https://img.shields.io/badge/CQRS%20%2F%20Saga-8A2BE2?style=flat-square&logoColor=white)
 
 </div>
+
+---
+
+## ⚡ Impact at a Glance
+
+<div align="center">
+
+| Metric | Achievement |
+|--------|-------------|
+| 🚀 **Transactions / sec** | Designed systems handling **2K–5K TPS** at peak |
+| 📊 **Events / day** | Kafka + Debezium pipelines processing **1M+ events/day** |
+| ⚡ **API Latency** | Reduced by **30–40%** via Redis & query optimization |
+| 💰 **Infrastructure Cost** | Cut by **~20%** with GPU utilization monitoring |
+| 🏦 **Daily Transactions** | Ledger service handling **1M+ transactions/day** (ACID) |
+| 👥 **DAU Served** | Recommendation engine for **100K+ daily active users** |
+| ✅ **Transaction Failure Rate** | Maintained **< 0.01%** failure rate |
+
+</div>
+
 
 ---
 
