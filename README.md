@@ -13,7 +13,7 @@
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saty5685)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://satyamsingh.onrender.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saty5685@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamsingh.dev27@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saty5685)
 
 <br/>
@@ -195,7 +195,7 @@ If you're working on **high-scale fintech**, **distributed systems**, or want to
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saty5685)
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://satyamsingh.onrender.com/)
-[![Email](https://img.shields.io/badge/Drop_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saty5685@gmail.com)
+[![Email](https://img.shields.io/badge/Drop_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamsingh.dev27@gmail.com)
 
 <br/>
 
